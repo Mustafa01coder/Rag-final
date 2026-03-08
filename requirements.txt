@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+chromadb
+numpy
+pypdf
+requests
+# Embeddings stack (compatible pins)
+torch
+transformers
+tokenizers
+accelerate
+sentence-transformers
